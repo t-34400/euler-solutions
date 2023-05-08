@@ -15,7 +15,7 @@ def get_sum_of_multiples_of(target_number, multiplicand):
     return (multiplicand + max_multiple) * num_of_multiple // 2
 
 
-target_number = 1000
+target_number = 999
 
 print(answer_1(target_number))
 print(answer_2(target_number))
